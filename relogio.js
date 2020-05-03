@@ -1,5 +1,5 @@
 setInterval(
-  function atualizar() {
+  function relogio() {
     var relogio = new Date()
     var horas = relogio.getHours()
     var minutos = relogio.getMinutes()
